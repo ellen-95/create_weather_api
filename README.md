@@ -4,7 +4,7 @@ This is a practical project to create a localhost API for accessing weather data
 
 ## Demo
 
-![Weather Data API Demo](images/demo.png)
+![Weather Data API Demo](demo.png)
 
 ## Features
 
